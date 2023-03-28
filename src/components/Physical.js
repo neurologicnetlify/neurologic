@@ -20,7 +20,7 @@ const Physical = () => {
     setSelectedButtonValues(newSelectedButtonValues);
   };
    
-  const handleClick1 = (move) => {};
+  // const handleClick1 = (move) => {};
 
   const createButtons = (item) => {
     const buttons = [];
